@@ -22,8 +22,8 @@ p{
     text-indent: 50px;
 }
 a {
-    color:#606060 ;
-    text-decoration: none;
+    color:#adc178
+    text-decoration:none;
 }
 a:hover {
     text-decoration: underline;
@@ -34,14 +34,14 @@ header#cabecalho img#icone{
     top:75px ;
 }
 header#cabecalho{
-    border-bottom: 1px #606060 solid;
+    border-bottom: 1px #adc178 solid;
     height: 150px;
     background:url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px ;
 }
     header#cabecalho h1{
 font-family:"FontLogo", sans-serif ;
 font-size:25pt ;
-color: #606060;
+color:#adc178;
 text-shadow: 1px 1px 1px rgba( 0, 0, 0, .6);
 padding: 0%;
 margin-bottom: 0pix;
@@ -49,7 +49,7 @@ margin-bottom: 0pix;
     header#cabecalho h2{
         font-family:'Titillium Web', sans-serif;
 font-size:15px ;
-color: #888888;
+color: #adc178;
 padding: 0%;
 margin-top:0pix ;
     }
@@ -91,13 +91,13 @@ left: 700px;;
 }
 nav#Menu li{
     display:inline-block ;
-    background-color:#dddddd;
+    background-color:#adc178;
     padding:10px ;
     margin: 2px;
     transition: background-color 1s ;
 }
     nav#Menu li:hover{
-background-color:#606060 ;
+background-color:#adc178;
     }
 nav#Menu h1{
 
@@ -115,20 +115,20 @@ section#corpo{
     display: block;
     width:500px ;
     float: left;
-    border-right: 1px solid #606060;
+    border-right: 1px solid #adc178;
     padding-right: 15px;
 }
 article#noticia-principal h2 {
 font-size: 13pt;
-color: #606060;
-background-color: #dddddd;
+color:#fff;
+background-color: #adc178;
 padding: 5px 0px 5px 10px;
 margin: 10px 0px 10px 0px;
 }
 header#cabecalho-artigo h1{
 font-family: "FontLogo", sans-serif;
 font-size: 20pt;
-color: #606060;
+color: #adc178;
 margin-bottom: 0px;
 margin-top: 0px;
 }
@@ -143,24 +143,24 @@ margin: 0px;
 }
 header#cabecalho-artigo h3{
   font-size: 12px; 
-  color: #606060; 
+  color: #adc178; 
 
 }
 table#tabelaspac{
-    border: 1px solid #606060;
+    border: 1px solid #adc178;
     border-spacing: 0px;
     margin-left: auto;
     margin-right: auto;
 }
 table#tabelaspac td {
-border: 1px solid #606060;
+border: 1px solid #adc178;
 padding: 10px;
 text-align: center;
 vertical-align: middle;
 }
 table#tabelaspac td.ce{
 color: #ffffff;
-background-color: #606060;
+background-color: #adc178;
 vertical-align:top ;
 font-weight: bold;
 }
@@ -170,7 +170,7 @@ background-color:#cecece;
 
 }
 table#tabelaspac caption{
-    color: #888888;
+    color:#adc178;
     font-size: 13pt;
     font-weight: bolder;
 }
@@ -193,18 +193,18 @@ aside#lateral{
 aside#lateral h1{
     font-family:"FontLogo", sans-serif ;
     font-size: 20pt;
-    color: #606060;
+    color: #adc178;
     margin-top: 0px;
 }
 aside#lateral h2 {
-  background-color: #606060; 
+  background-color: #adc178; 
 font-size: 13pt;
 color: #ffffff;
 padding: 5px;
 }
 footer#rodape{
     clear: both;
-    border-top:1px solid #606060 ;
+    border-top:1px solid #adc178;
 
 }
 footer#rodape p {
